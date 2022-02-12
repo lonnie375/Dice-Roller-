@@ -1,0 +1,15 @@
+/Users/lonni/GrandCircusBootCamps/DiceRoller/DiceRoller/bin/Debug/net5.0/DiceRoller.deps.json
+/Users/lonni/GrandCircusBootCamps/DiceRoller/DiceRoller/bin/Debug/net5.0/DiceRoller.runtimeconfig.json
+/Users/lonni/GrandCircusBootCamps/DiceRoller/DiceRoller/bin/Debug/net5.0/DiceRoller.runtimeconfig.dev.json
+/Users/lonni/GrandCircusBootCamps/DiceRoller/DiceRoller/bin/Debug/net5.0/DiceRoller.dll
+/Users/lonni/GrandCircusBootCamps/DiceRoller/DiceRoller/bin/Debug/net5.0/ref/DiceRoller.dll
+/Users/lonni/GrandCircusBootCamps/DiceRoller/DiceRoller/bin/Debug/net5.0/DiceRoller.pdb
+/Users/lonni/GrandCircusBootCamps/DiceRoller/DiceRoller/obj/Debug/net5.0/DiceRoller.csproj.AssemblyReference.cache
+/Users/lonni/GrandCircusBootCamps/DiceRoller/DiceRoller/obj/Debug/net5.0/DiceRoller.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lonni/GrandCircusBootCamps/DiceRoller/DiceRoller/obj/Debug/net5.0/DiceRoller.AssemblyInfoInputs.cache
+/Users/lonni/GrandCircusBootCamps/DiceRoller/DiceRoller/obj/Debug/net5.0/DiceRoller.AssemblyInfo.cs
+/Users/lonni/GrandCircusBootCamps/DiceRoller/DiceRoller/obj/Debug/net5.0/DiceRoller.csproj.CoreCompileInputs.cache
+/Users/lonni/GrandCircusBootCamps/DiceRoller/DiceRoller/obj/Debug/net5.0/DiceRoller.dll
+/Users/lonni/GrandCircusBootCamps/DiceRoller/DiceRoller/obj/Debug/net5.0/ref/DiceRoller.dll
+/Users/lonni/GrandCircusBootCamps/DiceRoller/DiceRoller/obj/Debug/net5.0/DiceRoller.pdb
+/Users/lonni/GrandCircusBootCamps/DiceRoller/DiceRoller/obj/Debug/net5.0/DiceRoller.genruntimeconfig.cache

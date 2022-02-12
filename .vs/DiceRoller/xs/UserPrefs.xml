@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0A99A8D9-7380-4769-8F4C-FDCD357FECF8}|Default">
+  <MonoDevelop.Ide.ItemProperties.DiceRoller PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DiceRoller/Program.cs">
+    <Files>
+      <File FileName="DiceRoller/Program.cs" Line="60" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DiceRoller" expanded="True">
+            <Node name="DiceRoller" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
